@@ -1,7 +1,7 @@
 const BLOG = {
   title: '赛博笔记',
   author: 'Cyber.Z',
-  email: 'haozhangbo123@gmail.com',
+  email: 'jakebobo.zb@gmail.com',
   link: 'https://github.com/coderbean',
   description: '',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://gravatar.com/haozhangbo123',
+  socialLink: 'https://gravatar.com/jakebobo.zb',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
